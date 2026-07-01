@@ -1,9 +1,10 @@
 # Beam Release Notes
 
-This page serves as a comprehensive overview of all the updates, improvements, bug fixes, and known limitations associated with each version of Beam. The most recent version, codenamed **Groovy Gluon 7.3.14027**, was released on _Saturday, April 15, 2023_.
+This page serves as a comprehensive overview of all the updates, improvements, bug fixes, and known limitations associated with each version of Beam. The most recent version, **Groovy Gluon 7.5.14493**, was released on _Wednesday, July 1, 2026_ as an emergency hard fork (HF6).
 
 Explore the detailed changelogs for each version by clicking on the corresponding links below. This will help you better understand the history and evolution of this groundbreaking cryptocurrency:
 
+- [Groovy Gluon. 7.5.14493](/docs/changelog/7.5.14493)
 - [Groovy Gluon. 7.5.13882](/docs/changelog/7.5.13882)
 - [Groovy Gluon. 7.5.13840](/docs/changelog/7.5.13840)
 - [Groovy Gluon. 7.4.13780](/docs/changelog/7.4.13780)
